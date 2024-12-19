@@ -1,0 +1,8 @@
+openai==0.28
+numpy
+pandas
+requests
+rdflib
+scikit-learn
+statsmodels
+pillow

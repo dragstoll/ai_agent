@@ -1,0 +1,251 @@
+country of citizenship
+original language of film or tv show
+imdb id
+occupation
+based on
+genre
+country of origin
+medierådet rating
+cast member
+languages spoken, written or signed
+instance of
+narrative location
+production company
+location
+place of birth
+director
+screenwriter
+distribution format
+different from
+color
+distributed by
+director of photography
+award received
+nominated for
+bbfc rating
+place of death
+publication date
+described by source
+assessment
+sexual orientation
+production designer
+mother
+shares border with
+followed by
+voice actor
+nmhh film rating
+film editor
+main subject
+image
+filming location
+country
+historic county
+diplomatic relation
+ifco rating
+performer
+characters
+part of the series
+follows
+set during recurring event
+allegiance
+film crew member
+medical condition
+has works in the collection
+present in work
+from narrative universe
+native language
+capital of
+owner of
+fsk film rating
+field of work
+winner
+industry
+after a work by
+child
+sport
+notable work
+sibling
+has part
+aspect ratio
+narrator
+said to be the same as
+executive producer
+conflict
+subclass of
+inspired by
+mpaa film rating
+spouse
+educated at
+set in period
+cnc film rating (france)
+depicts
+language used
+part of
+has quality
+headquarters location
+classind rating
+kijkwijzer rating
+rcq classification
+country for sport
+member of
+costume designer
+place served by transport hub
+residence
+derivative work
+filmiroda rating
+author
+imda rating
+original broadcaster
+references work, tradition or theory
+cause of death
+icaa rating
+box office
+superhuman feature or ability
+influenced by
+animator
+named after
+unmarried partner
+fictional universe described in
+writing language
+contributor to the creative work or subject
+set in environment
+fabrication method
+developer
+religion
+ethnic group
+replaces
+facet of
+language of work or name
+make-up artist
+given name
+location of formation
+opposite of
+first appearance
+copyright holder
+rtc film rating
+cnc film rating (romania)
+creator
+head of state
+twinned administrative body
+killed by
+jmk film rating
+located in the administrative territorial entity
+significant event
+time period
+media franchise
+relative
+enemy of
+kmrb film rating
+platform
+father
+parent organization
+takes place in fictional universe
+list of works
+place of burial
+eirin film rating
+collection
+plot expanded in
+work location
+copyright status
+storyboard artist
+capital
+fpb rating
+narrative motif
+art director
+employer
+official language
+uses
+sex or gender
+operating system
+participant in
+continent
+incaa film rating
+depicted by
+form of creative work
+original film format
+significant person
+presented in
+indigenous to
+hong kong film rating
+owned by
+manner of death
+military branch
+igac rating
+movement
+publisher
+product or material produced
+home world
+cites work
+scenographer
+founded by
+noble title
+student
+located on terrain feature
+has pet
+rars rating
+published in
+student of
+sidekick of
+operating area
+bamid film rating
+interested in
+represented by
+kavi rating
+affiliation
+place of publication
+contains administrative territorial entity
+public holiday
+sound designer
+australian classification
+intended public
+basin country
+participant
+located in or next to body of water
+mtrcb rating
+has edition or translation
+musical conductor
+edition or translation of
+head of government
+partner in business or sport
+archives at
+lowest point
+replaced by
+use
+member of sports team
+permanent resident of
+director / manager
+oflc classification
+field of this occupation
+operator
+located in present-day administrative territorial entity
+political ideology
+convicted of
+ancestral home
+choreographer
+practiced by
+business model
+crew member(s)
+broadcast by
+character designer
+stepparent
+presenter
+dedicated to
+season
+designed by
+sports discipline competed in
+copyright representative
+located on street
+lifestyle
+member of the crew of
+health specialty
+place of detention
+official residence
+applies to jurisdiction
+has effect
+has cause
+occupant
+conferred by
+copyright license
+quotes work
+input method
+partially coincident with
